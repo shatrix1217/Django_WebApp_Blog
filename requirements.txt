@@ -49,8 +49,10 @@ dask @ file:///tmp/build/80754af9/dask-core_1607706933335/work
 decorator==4.4.2
 defusedxml==0.6.0
 distributed @ file:///C:/ci/distributed_1607708294596/work
+dj-database-url==0.5.0
 Django==3.1.4
 django-crispy-forms==1.10.0
+django-heroku==0.3.1
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -146,6 +148,7 @@ ply==3.11
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 psutil @ file:///C:/ci/psutil_1598352273540/work
+psycopg2==2.8.6
 py @ file:///tmp/build/80754af9/py_1607971587848/work
 pycodestyle==2.6.0
 pycosat==0.6.3
@@ -238,6 +241,7 @@ wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webdriver-manager==3.2.2
 webencodings==0.5.1
 Werkzeug==1.0.1
+whitenoise==5.2.0
 widgetsnbextension==3.5.1
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
 win-unicode-console==0.5
