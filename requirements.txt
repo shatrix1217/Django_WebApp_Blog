@@ -1,6 +1,4 @@
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
 asgiref==3.3.1
 astroid==2.2.5
 async-generator==1.10
